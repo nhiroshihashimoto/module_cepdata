@@ -1,14 +1,18 @@
 # Módulo de busca de endereço por CEP
 > Busca de endereço usando Javascript
 
-//imagem
+<div align="center">
 
+![Sem título](https://user-images.githubusercontent.com/55330156/137642900-b01d6815-e9ee-4a16-a3c4-18408d279d79.jpg)
+
+</div>
+ 
 ## Motivação
 - Aprender mais de Javascript
 - Criar um módulo para ser reutilizado.
 
 ## Diferencial
-- Módulo para busca de vários CEP
+- Módulo
  
 ## Exemplos de uso
 ```
