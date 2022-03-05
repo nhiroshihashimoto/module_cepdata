@@ -26,7 +26,7 @@
 ```
 
 ## Como importar?
-- Copie tudo que contém dentro da pasta **/js/**
+- Copie tudo que contém dentro da pasta **/js/** para o seu projeto
 
 ### Mais
 - O módulo é assíncrono, então saiba que sua aplicação deverá esperar a resposta da API
